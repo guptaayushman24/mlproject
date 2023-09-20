@@ -4,4 +4,4 @@ a:- New Environment
 b:- Setup.py
 c:- Requirments.txt
 
-2-> Src folder and build the ackage
+2-> Src folder and build the package
